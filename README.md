@@ -1,4 +1,4 @@
 Dwarf-Artist
 ============
 
-A color editing utility for Dwarf Fortress. See the TODO for planned features.
+A tileset editing utility for Dwarf Fortress. See the TODO for planned features.
