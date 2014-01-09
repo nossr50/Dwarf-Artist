@@ -1,0 +1,8 @@
+Planned Features
+  -OpenGL render of tilesheets in realtime to reflect changes in colors.
+    -Mock-up scenes of Dwarf Fortress to get an idea of what it will look like in game.
+  -Profiles to swap between for convenient color swaps.
+
+Code Related
+  -Cleanup
+  -GUI improvements (being able to resize the window)
